@@ -4,5 +4,6 @@
 [github.com/aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree)
 
 ## 谷狗镜像站
+[hideip.im](https://hideip.im/)  
 [https://i-research.edu.eu.org/](https://i-research.edu.eu.org/)  
 [https://library.ac.cn/](https://library.ac.cn/)  

@@ -6,5 +6,5 @@
 ## 谷狗镜像站
 ~https://hideip.im/~  
 [i-research.edu.eu.org](https://i-research.edu.eu.org/)  
-[github.com/librarycloud/list](https://github.com/librarycloud/list)  
-[mirror.js.org/](https://mirror.js.org/)
+[kgithub.com/librarycloud/list](https://kgithub.com/librarycloud/list)  
+[mirror.js.org](https://mirror.js.org/)  

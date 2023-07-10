@@ -8,3 +8,10 @@
 [i-research.edu.eu.org](https://i-research.edu.eu.org/)  
 [kgithub.com/librarycloud/list](https://kgithub.com/librarycloud/list)  
 [mirror.js.org](https://mirror.js.org/)  
+
+## web代理
+www.croxyproxy.com (指定IP: 64.227.120.231)  
+https://web.tanglu.me/  
+
+## 用issue写的博客
+https://github.com/dalaolala/blog/issues

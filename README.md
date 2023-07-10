@@ -1,4 +1,5 @@
 # 收集大风刮来的SS、V2等
+https://free-ss.site/  
 [github.com/freefq/free/](https://github.com/freefq/free/)  
 [github.com/learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss)  
 [github.com/aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree)

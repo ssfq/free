@@ -5,10 +5,11 @@ https://free-ss.site/
 [github.com/aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree)
 
 ## 谷狗镜像站
-~~https://hideip.im/~~  
+[goun.site](https://www.goun.site/)  
 [i-research.edu.eu.org](https://i-research.edu.eu.org/)  
-[kgithub.com/librarycloud/list](https://kgithub.com/librarycloud/list)  
+[google.winmini.eu.org](https://google.winmini.eu.org/)  
 [mirror.js.org](https://mirror.js.org/)  
+[file.soozon.com](https://file.soozon.com/)
 
 ## web代理
 www.croxyproxy.com (指定IP: 64.227.120.231)  

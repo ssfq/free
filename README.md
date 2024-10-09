@@ -7,7 +7,7 @@ https://free-ss.site/
 ## 谷狗镜像站
 [goun.site](https://www.goun.site/)  
 [i-research.edu.eu.org](https://i-research.edu.eu.org/)  
-[google.winmini.eu.org](https://google.winmini.eu.org/)  
+[google.speedcloud.icu](https://google.speedcloud.icu/)  
 [mirror.js.org](https://mirror.js.org/)  
 [file.soozon.com](https://file.soozon.com/)
 
